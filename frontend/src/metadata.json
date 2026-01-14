@@ -1,0 +1,5 @@
+{
+  "name": "Kinetix Protocol",
+  "description": "The first yield-bearing prediction layer on Mantle. Bets earn yield while locked, maximizing capital efficiency with real-time Mantle Data Streams.",
+  "requestFramePermissions": []
+}
